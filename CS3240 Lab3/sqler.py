@@ -55,4 +55,9 @@ with conn:
             dictB[thing[1]] = thing[4]
 
 print dictB
+
 print "this lab is so fun!!!!"
+
+
+print "stuff"
+
