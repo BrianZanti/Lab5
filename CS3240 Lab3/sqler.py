@@ -56,7 +56,11 @@ with conn:
 
 print dictB
 
+
 print "this lab is so not not fun!!!!"
+
+print "this lab is so not monkey!!!!"
+
 
 
 print "stuff"
