@@ -56,7 +56,7 @@ with conn:
 
 print dictB
 
-print "this lab is so fun!!!!"
+print "this lab is so not fun!!!!"
 
 
 print "stuff"
