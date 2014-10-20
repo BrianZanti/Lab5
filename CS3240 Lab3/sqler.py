@@ -56,11 +56,11 @@ with conn:
 
 print dictB
 
-<<<<<<< HEAD
+
 print "!!!!"
-=======
+
 print "this lab is so not monkey!!!!"
->>>>>>> 1dafb53ffc68d6e9e92e904eafedeb73a3b27650
+
 
 
 print "stuff"
