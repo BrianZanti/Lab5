@@ -13,7 +13,7 @@ def write_to_db(deptID, courseNum, semester, meetingType, seatsTaken, seatsOffer
         cur = conn.cursor()
         sql_cmd = "insert into coursedata values(?,?,?,?,?,?,?)"
         cur.execute(sql_cmd,(deptID, courseNum, semester, meetingType, seatsTaken, seatsOffered, instructor) )
-
+#comment - trm2yf
 def find_course():
     conn = sqlite3.connect(database)
     with conn:
